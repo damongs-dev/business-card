@@ -1,0 +1,33 @@
+body
+{
+margin: 20px;
+font-family:Verdana;
+}
+
+.avatar
+{
+    width: 150px;
+   
+   
+   
+}
+.description
+{
+
+    text-align: center;
+}
+
+.card
+{
+    width: 400px;
+    
+    margin: 0 auto 0 auto;
+    display: flex;
+    justify-content:space-around;
+   padding: 20px;
+    background: burlywood;
+    color: #252528;
+    border-bottom: 5px solid chocolate;
+ 
+}
+
