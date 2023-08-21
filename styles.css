@@ -25,9 +25,9 @@ font-family:Verdana;
     display: flex;
     justify-content:space-around;
    padding: 20px;
-    background: burlywood;
+   background-image: linear-gradient(to bottom right, #0093E9, #80D0C7 );
     color: #252528;
-    border-bottom: 5px solid chocolate;
+    border-bottom: 5px solid rgb(191, 163, 255);
  
 }
 
